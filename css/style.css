@@ -1,0 +1,75 @@
+body {
+	background-color: black;
+	font-family: Action man; san-serif;
+	line-height: 50px;
+}
+
+h1 {
+	font-family: Action man; san-serif;
+	text-align: center; 
+}
+@media screen and (max-width:400px){
+h1{
+    font-size:35px;
+}
+li {
+    font-size:15px;
+}
+
+a:hover {
+	color: red;
+	font-size: 22px;
+}
+}
+
+li {
+	list-style: none;
+}
+
+a:hover {
+	color: red;
+	font-size: 1.8em;
+}
+
+a {
+	color: #C11B17;
+	text-decoration: none;
+}
+
+hr {
+	border: 0.1px thin white;
+}
+.container {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#main-header {
+	line-height: 20px;
+	color: white;
+}
+
+#foods {
+	color: #B1FB17;
+}
+
+#songs {
+	color:#FF00FF;
+}
+
+
+#main-footer {
+	text-align: center;
+	font-family: Arial, Helvetica, san-serif;
+	line-height: 50px;
+	font-weight: 80;
+	color: white;
+	font-size: 20px;
+}
+
+
+.list {
+	color: white;
+}
+
+
